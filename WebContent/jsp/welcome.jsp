@@ -25,6 +25,7 @@ body {
 		for all Spring MVC, Web Development examples.<br>
 		Asif Hussain
 		Change 20
+		Thanks Talha
 	</div>
 </body>
 </html>
