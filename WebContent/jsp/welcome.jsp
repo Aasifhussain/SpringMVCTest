@@ -24,8 +24,8 @@ body {
 			href='https://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
 		for all Spring MVC, Web Development examples.<br>
 		Asif Hussain
-		Change 20
-		Thanks Talha
+		Change 21
+		
 	</div>
 </body>
 </html>
