@@ -24,8 +24,12 @@ body {
 			href='https://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
 		for all Spring MVC, Web Development examples.<br>
 		Asif Hussain, Royal Cyber Inc.
-		Change 0
+	<br>
+	Jenkins Test Commit
+		Change 1
 		
+		<br>
+		Avinash makes somes changes
 	</div>
 </body>
 </html>
