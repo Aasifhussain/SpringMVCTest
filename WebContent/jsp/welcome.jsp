@@ -23,8 +23,8 @@ body {
 			target="_blank">here</a> for all Java and <a
 			href='https://crunchify.com/category/spring-mvc/' target='_blank'>here</a>
 		for all Spring MVC, Web Development examples.<br>
-		Asif Hussain, Royal Cyber
-		Change 27
+		Asif Hussain, Royal Cyber Inc.
+		Change 0
 		
 	</div>
 </body>
