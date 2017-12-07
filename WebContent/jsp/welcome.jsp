@@ -38,8 +38,6 @@ body {
 		<br>
 		Swathin
 		<br>
-		
-		
 	</div>
 </body>
 </html>
