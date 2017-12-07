@@ -31,7 +31,7 @@ body {
 		<br>
 		Avinash makes somes changes
 		<br>
-		Taha
+		Taha Patel
 	</div>
 </body>
 </html>
